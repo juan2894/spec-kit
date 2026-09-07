@@ -42,6 +42,25 @@
     - name: What is SDD?
       href: concepts/sdd.md
 
+# Curso en Español
+- name: Curso Spec Kit (Español)
+  href: curso/index.md
+  items:
+    - name: Visión General del Curso
+      href: curso/index.md
+    - name: Módulo 1 - Introducción a SDD
+      href: curso/01-introduccion-sdd.md
+    - name: Módulo 2 - Instalación y Configuración
+      href: curso/02-instalacion-y-configuracion.md
+    - name: Módulo 3 - Constitución y Especificación
+      href: curso/03-constitucion-y-especificacion.md
+    - name: Módulo 4 - Planificación y Tareas
+      href: curso/04-planificacion-y-tareas.md
+    - name: Módulo 5 - Implementación y Verificación
+      href: curso/05-implementacion-y-verificacion.md
+    - name: Módulo 6 - Extensiones y Presets
+      href: curso/06-extensiones-y-presets.md
+
 # Development workflows
 - name: Development
   items:
